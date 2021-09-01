@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 ![Instagram](https://img.shields.io/badge/<@ankozdrum_m43>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-![YouTube](https://img.shields.io/badge/<devInside>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![YouTube](https://img.shields.io/badge/<devInside>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
