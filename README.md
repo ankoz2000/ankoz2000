@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ### CONNECT WITH ME
 [<img align="left" altr="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/youtube.svg" />][youtube]
 [<img align="left" altr="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/vk.svg" />][vk]
-[<img align="left" altr="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/instagram.svg" />][instagramm]
+[<img align="left" altr="I" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/instagram.svg" />][instagramm]
 
 </br>
 
